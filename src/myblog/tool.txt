@@ -1,4 +1,4 @@
-git 删除github上的文件
+git 删除github上的文件 测试修改
 
 硬盘删除文件后，执行$ git status
 
